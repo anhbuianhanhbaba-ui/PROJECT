@@ -10,3 +10,6 @@ A collection of my projects for CV and portfolio purposes.
 ## ZigBee-Based Wireless Alert System
 - Wireless alert system simulation using ZigBee
 - Transmitter-receiver model with microcontroller, LCD, LED, buzzer, and serial communication
+  
+## AUSB
+- 4-layer PCB layout project
